@@ -19,6 +19,8 @@ platform.
 
 ⚠️ Refer to foxBMS 2 as foxBMS 1 is no longer supported or updated ⚠️
 
+## Contact
+
 For more information or if you want to give use some feedback, please [contact us](https://foxbms.org/support/#heading_contact_us).
 
 The Fraunhofer IISB foxBMS Team
