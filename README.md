@@ -8,21 +8,16 @@ platform.
 
 ## foxBMS 2
 
+- Sources are available at
+  [https://www.github.com/foxBMS/foxbms-2](https://www.github.com/foxBMS/foxbms-2)
 - [latest version foxBMS 2 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/latest/)
 - [Previous versions of the foxBMS 2 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/)
 - Links to specific version are permalinks (e.g.,
   [foxBMS 2 version 1.0.0](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/v1.0.0/))
-- Sources are available at
-  [https://www.github.com/foxBMS/foxbms-2](https://www.github.com/foxBMS/foxbms-2)
 
 ## foxBMS 1
 
-- [latest version foxBMS 1 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/latest/)
-- [Previous versions of the foxBMS 1 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/)
-- Links to specific version are permalinks (e.g.,
-  [foxBMS 1 version 1.6.7](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/v1.6.7/))
-- Sources are available at
-  [https://www.github.com/foxBMS/foxbms-1](https://www.github.com/foxBMS/foxbms-1)
+⚠️ Refer to foxBMS 2 as foxBMS 1 is no longer supported or updated ⚠️
 
 For more information or if you want to give use some feedback, please [contact us](https://foxbms.org/support/#heading_contact_us).
 
